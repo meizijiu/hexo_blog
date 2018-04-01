@@ -3,3 +3,6 @@ public/
 .git
 .npmignore
 .deploy_git/
+themes/
+.gitignoregit.swp
+package-lock.json
