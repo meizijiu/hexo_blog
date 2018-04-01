@@ -2,5 +2,4 @@ node_modules/
 public/
 .git
 .npmignore
-.travis/
 .deploy_git/
