@@ -9,3 +9,11 @@ tags:
 ---
 
 ### Hexo Travis-CLI 搭建
+
+#### 搭建Hexo
+
+#### 搭建githubPage
+
+#### 搭建Travis
+
+#### 同步Hexo Source与Hexo静态页面同步
